@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hello from main branch!
-=======
-Hello from feature-greeting branch!
->>>>>>> feature-greeting
+Hello, this is a message from my cloned repository!
